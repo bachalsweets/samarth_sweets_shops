@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/samarth_sweets_shops/static/css/main.b4fa44ea.chunk.css",
+    "main.js": "/samarth_sweets_shops/static/js/main.36a22f49.chunk.js",
+    "main.js.map": "/samarth_sweets_shops/static/js/main.36a22f49.chunk.js.map",
+    "runtime-main.js": "/samarth_sweets_shops/static/js/runtime-main.f2e97582.js",
+    "runtime-main.js.map": "/samarth_sweets_shops/static/js/runtime-main.f2e97582.js.map",
+    "static/js/2.c53530ec.chunk.js": "/samarth_sweets_shops/static/js/2.c53530ec.chunk.js",
+    "static/js/2.c53530ec.chunk.js.map": "/samarth_sweets_shops/static/js/2.c53530ec.chunk.js.map",
+    "index.html": "/samarth_sweets_shops/index.html",
+    "precache-manifest.62fe6654bf2cfaa274f8af9f282edd15.js": "/samarth_sweets_shops/precache-manifest.62fe6654bf2cfaa274f8af9f282edd15.js",
+    "service-worker.js": "/samarth_sweets_shops/service-worker.js",
+    "static/css/main.b4fa44ea.chunk.css.map": "/samarth_sweets_shops/static/css/main.b4fa44ea.chunk.css.map",
+    "static/js/2.c53530ec.chunk.js.LICENSE.txt": "/samarth_sweets_shops/static/js/2.c53530ec.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/samarth_sweets_shops/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2e97582.js",
+    "static/js/2.c53530ec.chunk.js",
+    "static/css/main.b4fa44ea.chunk.css",
+    "static/js/main.36a22f49.chunk.js"
+  ]
+}
